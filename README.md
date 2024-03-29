@@ -1,12 +1,18 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Windows PowerShell ISE](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.4)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Windows PowerShell ISE](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.4).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./images/Powershell-ISE.png)
+
+![Screenshot](./images/Powershell-ISE_Script_Pane.png)
+
+![Screenshot](./images/Powershell-ISE_Script_Pane_XML_Tokens.png)
+
+![Screenshot](./images/Powershell-ISE_Console_Pane.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/powershell-ise](https://draculatheme.com/powershell-ise).
 
 ## Team
 
